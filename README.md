@@ -50,10 +50,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/MateusSouza74">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSouza74&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouza74&layout=compact&langs_count=7&theme=vision-friendly-dark&cache_seconds=1800"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusSouza74&theme=github_dark" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateusSouza74&theme=github_dark" height="150em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateusSouza74&theme=github_dark" height="150em"/>
 </div>
 
 ---
