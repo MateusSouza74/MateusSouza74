@@ -51,8 +51,8 @@
 
 <div align="center">
   <a href="https://github.com/MateusSouza74">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSouza74&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouza74&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSouza74&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouza74&layout=compact&langs_count=7&theme=vision-friendly-dark&cache_seconds=1800"/>
   </a>
 </div>
 
@@ -67,7 +67,7 @@
     <br>
     <p>Sistema de documentação automatizada de tabelas no <strong>Databricks Unity Catalog</strong> usando a <strong>API do Claude (Anthropic)</strong>. O sistema lê os metadados das colunas e gera descrições semânticas automaticamente via LLM, eliminando a necessidade de documentação manual em larga escala.</p>
     <p><strong>Tecnologias:</strong> Python · Claude API · Databricks Unity Catalog · Azure DevOps</p>
-    <p><em>Em breve open-source 🔒</em></p>
+    <a href="https://github.com/MateusSouza74/documentacao-automatica-unity-catalog">🔗 Link para o Repositório</a>
   </details>
   <br>
 
@@ -76,8 +76,9 @@
     <br>
     <p>Pipeline completo de predição de churn com <strong>PyTorch</strong>, rastreamento de experimentos com <strong>MLflow</strong> e serving via <strong>FastAPI</strong>. Projeto desenvolvido como Tech Challenge da Pós Tech em ML Engineering na FIAP.</p>
     <p><strong>Tecnologias:</strong> Python · PyTorch · MLflow · FastAPI · Pandas · Scikit-Learn</p>
-    <a href="#">🔗 Link para o Repositório (em breve)</a>
+    <a href="https://github.com/MateusSouza74/Tech-Challenge-01">🔗 Link para o Repositório</a>
   </details>
+
 </div>
 
 ---
@@ -87,3 +88,16 @@
 - **ML Engineering (FIAP Pós Tech):** MLOps, feature stores, deploy de modelos em produção
 - **AI Engineering:** RAG, agentes com LLM, avaliação de modelos generativos
 - **Arquitetura de dados moderna:** Apache Iceberg, Data Mesh, contratos de dados
+
+---
+
+### 📫 Fale Comigo
+
+<div id="socials" align="center">
+  <a href="mailto:mcmateus2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mateussouza77/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
