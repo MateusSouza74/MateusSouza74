@@ -78,16 +78,6 @@
     <p><strong>Tecnologias:</strong> Python · PyTorch · MLflow · FastAPI · Pandas · Scikit-Learn</p>
     <a href="#">🔗 Link para o Repositório (em breve)</a>
   </details>
-  <br>
-
-  <details>
-    <summary><strong>📊 Dashboard de Performance para Contact Center</strong></summary>
-    <br>
-    <p>Painel de BI completo em <strong>Power BI</strong> para monitoramento de KPIs, SLAs e performance de equipes. Automatiza a geração de relatórios com conexão direta ao SharePoint.</p>
-    <p><strong>Tecnologias:</strong> Power BI · DAX · Power Query</p>
-    <a href="https://github.com/MateusSouza74/Dashboard-Contact-Center">🔗 Link para o Repositório</a>
-  </details>
-
 </div>
 
 ---
@@ -97,16 +87,3 @@
 - **ML Engineering (FIAP Pós Tech):** MLOps, feature stores, deploy de modelos em produção
 - **AI Engineering:** RAG, agentes com LLM, avaliação de modelos generativos
 - **Arquitetura de dados moderna:** Apache Iceberg, Data Mesh, contratos de dados
-
----
-
-### 📫 Fale Comigo
-
-<div id="socials" align="center">
-  <a href="mailto:seu-email-aqui@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
