@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hFsx5bWgo1j/giphy.gif" width="100"/>
-  <h1>Olá! 👋 Sou o Mateus Souza</h1>
+  <h1>Olá! Sou o Mateus de Souza</h1>
   <h3>Data Engineer | ML Engineering | Databricks · dbt · Airflow · Python</h3>
 </div>
 
